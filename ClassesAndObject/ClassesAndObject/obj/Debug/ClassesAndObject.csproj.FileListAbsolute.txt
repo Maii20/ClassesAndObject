@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Coding Projects\ClassesAndObject\ClassesAndObject\bin\Debug\ClassesAndObject.exe.config
+C:\Users\USER\Desktop\Coding Projects\ClassesAndObject\ClassesAndObject\bin\Debug\ClassesAndObject.exe
+C:\Users\USER\Desktop\Coding Projects\ClassesAndObject\ClassesAndObject\bin\Debug\ClassesAndObject.pdb
+C:\Users\USER\Desktop\Coding Projects\ClassesAndObject\ClassesAndObject\obj\Debug\ClassesAndObject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Coding Projects\ClassesAndObject\ClassesAndObject\obj\Debug\ClassesAndObject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding Projects\ClassesAndObject\ClassesAndObject\obj\Debug\ClassesAndObject.exe
+C:\Users\USER\Desktop\Coding Projects\ClassesAndObject\ClassesAndObject\obj\Debug\ClassesAndObject.pdb
